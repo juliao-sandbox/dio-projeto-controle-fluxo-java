@@ -4,7 +4,7 @@ Programa simples que recebe dois parâmetros numéricos digitados pelo usuário,
 
 Este projeto foi descrito em [Desafio Controle de Fluxo](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo).
 
-A descrição deste projeto está contraditória no site, no título é _Criando Um Pequeno Sistema Para Validação de Processo Seletivo_, mas o desafio mesmo é o citado acima, de qualquer forma adicionei o projeto _ControleCandidatos_ neste repositório, ele foi mostrado nos vídeos anteriores ao desafio.
+A descrição deste projeto está contraditória no site, o título é _Criando Um Pequeno Sistema Para Validação de Processo Seletivo_, mas o desafio mesmo é o citado acima, de qualquer forma adicionei o projeto _ControleCandidatos_ neste repositório, ele foi mostrado nos vídeos anteriores ao desafio.
 
 ---
 
